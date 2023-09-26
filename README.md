@@ -1,7 +1,7 @@
 
-# flutter_esp_ble_prov
+# saveeye_esp_ble_prov
 
-Plugin for provisioning ESP32 Devices over BLE (Bluetooth Low Energy).
+Plugin for provisioning ESP32 Devices over BLE (Bluetooth Low Energy) edited by Khashayar Kazemi.
 
 This library uses Espressif-provided provisioning libraries for their custom
 protocol over BLE.
